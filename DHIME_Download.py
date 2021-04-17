@@ -360,5 +360,3 @@ def DHIME_Download(Path,DateIni,DateFin,Parameter,Variable,Department,Code,TimeW
 #     Code="21205012",
 #     TimeWait=30
 #     )
-# DHIME_Download(Path="C:/Users/sanba/Downloads/AutomateDownloads",DateIni="31/07/2010", DateFin="15/08/2010", Parameter="EVAPORACION", Variable="EV_TT_D", Department="Bolivar", Code="29015040")
-
